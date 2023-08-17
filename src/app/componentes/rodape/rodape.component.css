@@ -1,0 +1,19 @@
+footer {
+  background-image: url(../../../assets/fundo-rodape.png);
+  background-size: cover;
+  height: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0% 0%;
+  color: #ffffff;
+  align-items: center;
+  padding: 1rem ;
+}
+footer small{
+  justify-self: center;
+  font-size: 1rem;
+}
+.LogoRodape{
+  justify-self: center;
+}
