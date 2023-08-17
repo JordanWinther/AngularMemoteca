@@ -1,4 +1,5 @@
 # Memoteca
+project base https://github.com/alura-cursos/2438-angular-memoteca
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
