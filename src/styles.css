@@ -6,6 +6,11 @@
   padding: 0;
 }
 
+:root{
+  --azul-marinho: #154580;
+  --azul-claro: #1ddbe1;
+  --laranja:  #e7620e; 
+}
 .ff-inter { font-family: 'Inter', sans-serif; }
 .ff-roboto-mono { font-family: 'Roboto Mono', monospace; }
 
